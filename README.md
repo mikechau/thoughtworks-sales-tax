@@ -167,4 +167,7 @@ As I was writing this, I broke the application into 4 major components:
 - `Input` - where a file is taken and in and broken down into an array
 - `Transform` - where that array is taken and parsed into an array of hashes
 - `Calculator` - where that array of hashes is updated with the correct totals
-- `Printer` - where the output is displayed
+- `Printer` - where the output is displayed  
+
+### FEEDBACK
+Warning, this attempt is not very OOP and uses too many hashes. Naming choices are also poor.
